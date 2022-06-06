@@ -12,3 +12,6 @@ const firstName = "Emma";
 let lastName = "Neely";
 var age = 33;
 // Exercise 3
+let language = "JavaScript";
+let createdYear = 1995;
+let isCaseSensitive = true;
